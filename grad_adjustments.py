@@ -24,10 +24,7 @@ for epoch in range(5):  # Repeat 5 times
     with torch.no_grad():
         w -= lr * w.grad
         w.grad.zero_()
-    # Or Using an optimizer
-    # optimizer = torch.optim.SGD([w], lr=lr)
-    # optimizer.step()
-    # optimizer.zero_grad()
+
 
 
     print(f"Epoch {epoch+1}: Weight = {w.item()}, Loss = {loss.item()}")
