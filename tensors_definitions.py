@@ -1,7 +1,5 @@
 import torch
 
-
-
 # Defining a tensor
 x = torch.tensor([[1, 2], [3, 4], [4,7]])
 print(x)
@@ -9,8 +7,6 @@ print(x)
 # Tensor shape and type
 print(x.shape)
 print(x.dtype)
-
-
 
 # Scalar
 a = torch.tensor(5)
