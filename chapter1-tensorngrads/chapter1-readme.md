@@ -33,7 +33,7 @@ Learn how to:
 **Code:** [grads_intro.py](./grads_intro.py), [grads_linregexample.py](./grads_linregexample.py)  
 Learn how to:
 - Compute gradients with automatic differentiation.
-- Implement linear regression with gradient-based optimization.
+- Implement a basic version of linear regression with gradient-based optimization.
 
 ---
 
