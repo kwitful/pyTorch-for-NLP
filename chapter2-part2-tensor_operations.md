@@ -1,7 +1,7 @@
 # PyTorch Tensor Operations Tutorial
 
 This tutorial explains the basic operations, reshaping, saving, and slicing of tensors in PyTorch, using the examples provided in the repo Python files.
-
+`tensor_operations.py`, `tensor_slices.py`, `tensor_save.py`,`tensor_reshapes.py`
 ---
 
 ## 1. Basic Tensor Operations
@@ -35,7 +35,7 @@ print("Matrix Multiplication:", result)
 ---
 
 ## 2. Reshaping Tensors
-**File:** `tensor_reshapes.py`
+
 ```python
 import torch
 
@@ -61,7 +61,7 @@ print(x)
 ---
 
 ## 3. Slicing Tensors
-**File:** `tensor_slices.py`
+
 ```python
 import torch
 
@@ -83,7 +83,7 @@ print(x[:, 0])
 
 ---
 ## 4. Saving and Loading Tensors
-**File:** `tensor_save.py`
+
 ```python
 import torch
 
