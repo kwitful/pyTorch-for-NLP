@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-In this tutorial, we will walk through how to create, train, and evaluate an **Artificial Neural Network (ANN)** using PyTorch to solve a **regression problem**. Specifically, we will predict California housing prices based on features such as average income and house age.
+In this tutorial, we will walk through how to build , train, and evaluate an **Artificial Neural Network (ANN)** using PyTorch to solve a **regression problem**. I don't feel very good for using an "ideally convenient" dataset. However, such datasets function as good utilities for comprehending how neural networks are built and maintained. So, we will predict California housing prices based on features such as average income and house age.
 
 ### What is Regression?
 Regression is a type of machine learning task where the goal is to predict a **continuous value** based on input features. For example:
