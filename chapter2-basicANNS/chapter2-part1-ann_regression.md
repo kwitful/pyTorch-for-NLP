@@ -181,4 +181,4 @@ print("Model saved successfully!")
 ---
 
 ## Final Notes
-You now have a complete ANN for regression tasks, including explanations of every step. Use this structure for similar projects!
+You now have an understanding of how you can use PyTorch to build ANNs. Keep on nerding!
