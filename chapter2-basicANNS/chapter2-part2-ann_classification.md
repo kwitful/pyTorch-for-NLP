@@ -21,7 +21,6 @@ Artificial Neural Networks (ANNs) are inspired by the way the human brain proces
 
 ## 2. Prerequisites
 ### Libraries Required:
-- **Python**: Programming language.
 - **PyTorch**: Deep learning framework for tensor computation and neural networks.
 - **Scikit-learn**: Tools for preprocessing data and dataset management.
 
