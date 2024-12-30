@@ -166,8 +166,7 @@ with torch.no_grad():
 ## 4. Results
 Typical accuracy ranges from **95-98%**, showing the network effectively classifies the Iris dataset.
 
----
 
-## 5. Next Steps
-Experiment with more layers, different activation functions, and datasets!
+
+
 
