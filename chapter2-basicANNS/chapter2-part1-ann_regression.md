@@ -180,5 +180,5 @@ print("Model saved successfully!")
 
 ---
 
-## Final Notes
+## 4. Conclusion
 You now have an understanding of how you can use PyTorch to build ANNs. Keep on nerding!

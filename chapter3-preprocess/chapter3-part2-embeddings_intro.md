@@ -145,7 +145,7 @@ optimizer.step()
 
 ---
 
-## Conclusion 
+## 7. Conclusion 
 You now have a fundamental understanding of word embeddings. In the coming chapters, we will learn how to build cool stuff with neural networks. Keep on nerding!
 
 
