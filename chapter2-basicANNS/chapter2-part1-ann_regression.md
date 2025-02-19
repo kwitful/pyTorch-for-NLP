@@ -17,13 +17,9 @@ An ANN is a powerful machine learning model that mimics the structure of the hum
 
 ## 2. Prerequisites
 
-Before you proceed, ensure you have the following libraries installed:
+Before you proceed, ensure that the libraries are loaded and ready to go.
 
-- **Python**: The programming language we are using.
-- **PyTorch**: A deep learning framework that makes it easier to create and train neural networks.
-- **Scikit-learn**: A library for preprocessing and handling datasets.
-
-Install them with:
+If you don't have 'em, install them with:
 ```bash
 pip install torch torchvision scikit-learn
 ```
