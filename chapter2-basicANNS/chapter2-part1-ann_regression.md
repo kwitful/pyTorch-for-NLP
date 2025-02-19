@@ -104,7 +104,7 @@ class ANN(nn.Module):
 - **Input Layer**: Accepts input features (number of features = 8).
 - **Hidden Layer**: Contains 64 neurons, applies the ReLU activation function to add non-linearity.
 - **Output Layer**: Produces a single continuous value (predicted price).
-- **Activation Function (ReLU)**: Introduces non-linearity by converting negative values to zero, allowing the network to model complex relationships.
+- **Activation Function (We'll learn more later on)**: Introduces non-linearity by converting negative values to zero, allowing the network to model complex relationships.
 
 ---
 
